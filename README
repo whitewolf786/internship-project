@@ -1,0 +1,14 @@
+This is a demo/proof of concept for a chatbot created using Dialogflow platform
+
+To test the chatbot ( web demo link ) : https://bot.dialogflow.com/97f732a2-cda5-4933-8a65-a55c504ce8a5
+
+Accepted inputs :
+  "book me a flight"
+  "book me a flight from ____ to ____"
+  
+List of Destinations in database for testing :
+  depart1:'ahmedabad',dest:'mumbai',cost:3000
+  depart1:'ahmedabad',dest:'dubai',cost:5000
+  depart1:'dubai',dest:'mumbai',cost:7000
+  depart1:'mumbai',dest:'ahmedabad',cost:4000
+  depart1:'delhi',dest:'mumbai',cost:3000
